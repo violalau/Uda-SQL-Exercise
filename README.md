@@ -6,13 +6,13 @@
 
 本课程所用数据源自Parch & Posey（文件parch_and_posey_db），这是一个业务为销售纸张的Toy Database。
 
-本练习使用环境为PostgreSQL，如需练习，需先使用pg_restore命令将数据库（文件parch_and_posey_db）恢复至本机，具体操作可参考[这里]:https://github.com/ayushi-b/SQL-for-Data-Analysis 
+本练习使用环境为PostgreSQL，如需练习，需先使用pg_restore命令将数据库（文件parch_and_posey_db）恢复至本机，具体操作可参考[这里](https://github.com/ayushi-b/SQL-for-Data-Analysis)
 
 > 1. 创建databse: CREATE DATABASE parch_and_posey
 > 2. 将parch_and_posey_db恢复该database: g_restore -d parch_and_posey /本地路径/parch_and_posey_db
 
 本数据库实体关系图（ERD）如下：
-![parch_and_posey_ERD](C:\Users\Viola\Desktop\schema.png)
+![avatar](https://github.com/ayushi-b/SQL-for-Data-Analysis/raw/master/schema.png)
 
 ## Contents | 题目
 
