@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Uda-SQL-Exercise
 
 You can use the [editor on GitHub](https://github.com/violalau/Uda-SQL-Exercise/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
