@@ -1,6 +1,6 @@
 # Uda-SQL-Exercise | 优达学城SQL课程练习
 
-## Introduction | 简介
+## 简介
 
 练习来源于优达学城数据分析（入门）课程中的SQL部分。
 
@@ -14,7 +14,7 @@
 本数据库实体关系图（ERD）如下：
 ![avatar](https://github.com/ayushi-b/SQL-for-Data-Analysis/raw/master/schema.png)
 
-## Contents | 题目
+## 题目
 
 项目中的SQL文件为本人的解答，如需优达学城的标准解答请敲邮箱索取。
 
