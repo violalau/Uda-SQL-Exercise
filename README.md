@@ -1,6 +1,6 @@
 # Uda-SQL-Exercise | 优达学城SQL课程练习
 
-## Profile | 简介
+## Introduction | 简介
 
 练习来源于优达学城数据分析（入门）课程中的SQL部分。
 
