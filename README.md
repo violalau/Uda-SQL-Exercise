@@ -1,8 +1,8 @@
-# Uda-SQL-Exercise | 优达学城SQL课程练习
+# Uda-SQL-Exercise | SQL课程练习
 
 ## 简介
 
-练习来源于优达学城数据分析（入门）课程中的SQL部分。
+练习来源于数据分析（入门）课程中的SQL部分。
 
 本课程所用数据源自Parch & Posey（文件parch_and_posey_db），这是一个业务为销售纸张的Toy Database。
 
